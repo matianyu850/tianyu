@@ -40,3 +40,15 @@
 - The old one-armed guardian is no longer actively harvested by the tower, but his existing corruption remains irreversible.
 - The east auxiliary tower goes fully dark and another begins to flicker, revealing that the tower network also suppressed large living corrupted creatures outside the valley.
 - Multiple large blue-eyed living corrupted beings begin approaching from the eastern forest. Luo chooses to build a physical defence instead of relighting the tower with royal blood.
+
+## Chapter 12 — immediately after Chapter 11
+- Crescent warden woman gives her name as Cen Ying (岑缨).
+- Luo tests a small amount of ordinary dragon blood and confirms large blue-eyed living pollutants strongly track active/living sources; dragon light is a strong lure, fresh blood can redirect them, and Zhuzhao is an especially strong target.
+- The first clash reveals blue mist from the creatures can stimulate nearby dead beings, while blue larvae/threads from a downed creature can enter low lamps and cause lamp failure/explosion.
+- East-tower chain hardware is dismantled and repurposed into a manual physical defense using old buried chain sockets.
+- The old one-armed guardian recalls and executes an older local defense method: chain + blood + living guardian, explicitly not connected to tower or pit. Luo and the old guardian jointly activate the chain and repel the first large attackers.
+- The old guardian crosses his safe boundary, suffers terminal accelerated corruption, completes the defense, warns that the creatures remember lamp positions and flank by water, then permanently disintegrates without forming another cocoon.
+- He leaves a thin black-silver direction marker pointing south; he also remembers an unidentified book near a southern old fire site.
+- A second subsidiary tower goes fully dark; five of seven towers remain lit.
+- The defenders begin reorganizing around human/manual defense rather than tower automation. Elderly residents and children begin support roles.
+- As Luo prepares to inspect the south water route, multiple smaller blue-eyed creatures are discovered already inside the valley behind the main defense, near elderly residents and children.
