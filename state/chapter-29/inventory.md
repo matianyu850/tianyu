@@ -1,7 +1,7 @@
 # Inventory state - After chapter 29
 
 ## 洛沉川
-- Sword: remains his; temporarily lent to former fourth holder inside第三席 to let that man act for himself. Main-group departure state should treat sword ownership as洛沉川's, with the loan unresolved on-page until the former holder returns it or a later chapter resolves it.
+- Sword: with洛沉川 at chapter end. He temporarily lends it to the former fourth-position holder inside第三席; the man returns it on-page after freeing his ankle from the proxy-cloth. The sword handle carries a little of the man's blood before洛沉川 re-sheathes it.
 - Black-silver short blade: with洛沉川.
 - Cracked/disabled `五` lamp: with洛沉川.
 - `四/席` black-silver piece: with洛沉川.
