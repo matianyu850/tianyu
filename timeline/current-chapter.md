@@ -1,4 +1,4 @@
-# Timeline — Current through Chapter 25
+# Timeline — Current through Chapter 26
 
 ## Archive note
 Repository chapter archive still has historical sync gaps for Chapters 15 and 17–20. They remain accepted Canon from the running task context and must not be erased.
@@ -31,18 +31,32 @@ Repository chapter archive still has historical sync gaps for Chapters 15 and 17
 25. 第二影's `引` mark breaks, then `空位递补` retargets it to `四`.
 26. The grey-white escapee remains alive but badly wounded near晒场, says `萨维`, and draws egg + door with many figures + dragon outside before blacking out the door with silver-white blood.
 27. A distant fourth-door sound begins from the north/darkness.
+28. Chapter 26 begins immediately at边陲村.桑枝 says `别动` while treating the grey-white escapee; a black line manifests and blocks her touch, establishing the first observed fourth-door refusal boundary.
+29. Repeated observation plus 第二影 establishes `拒即界`: clear verbal or nonverbal refusal can create a literal separating boundary tied to the rejected action/relation.
+30. Repayment is observed as `受所拒`: the refuser must positively receive/accept what was refused, and relational refusals may require the other side to accept too.
+31. 烛昭 accidentally says `那别救了`, creating a refusal boundary between herself and洛沉川. She repairs it by positively stating `我要你救它`; 洛沉川 accepts the request as an `委托`.
+32. 第二影's `四` develops into `拒`; it identifies as partial `拒门影`, can `记拒`, but cannot freely erase another's refusal because `拒者自立`.
+33. Seven active/registered refusals strengthen the fourth-door manifestation. 阿满 briefly manifests a sight-related refusal from `我不想看它死`, then dissolves it with positive phrasing `我要看它活`.
+34. 洛沉川 discovers `代拒` and takes three refusal burdens from the grey-white escapee to stop it being dragged away and permit treatment. The burdens bodily reject桑枝 touch,烛昭 light/contact, and烛昭-origin aid until directly received.
+35. 洛沉川 and烛昭 physically work through the borrowed refusal; contract line remains intact and white light returns after contact is accepted. 桑枝 also completes her contact repayment. These specific temporary refusal blocks are resolved within the chapter.
+36. Grey-white escapee is bandaged and bleeding slows. It uses `萨维` while pointing to烛昭, later洛沉川, then draws two figures/door-line/hand-link symbol and explicitly nods to `萨维?`; exact translation remains unresolved but is now clearly relational/function-like rather than simply烛昭's personal name.
+37. Fourth-door manifestation speaks with familiar voices and offers desirable propositions in order to provoke refusal.
+38. To avoid rejecting `要不要我留下`,烛昭 positively states `我要你跟我走`.
+39. Fourth door accepts the positive request and weaponizes acceptance: 烛昭's contract line is pulled north and a human-looking red-cloth-wrist hand appears again.
+40. Fourth door asks洛沉川 `你拒绝吗?`. Because洛沉川 still has `失路`, he chooses to step onto the door-created route and says `我接` rather than refuse.
+41. Consequence: 第二影's `四/拒` mark shatters and reveals `受`.
+42. Final revelation: red-cloth hand calls洛沉川 `第四位`; voice says `拒者已满，该收受者了`; the true fourth door begins opening.
 
 ## Current temporal constraints
-- Chapter 26 begins immediately in边陲村 old street /晒场 area; no long time jump.
-- 第五门 is CLOSED; do not reopen it without a new on-page cause.
-- 第六门 remains CLOSED.
-- 阿满 has his true shadow back and is not an active fifth-door guide.
-- The grey-white escapee is alive but badly wounded and is an unresolved witness/source.
-- Permanent fixed white light remains gone; finite dragon-blood lamps are still the settlement's only safe illumination.
-- 洛沉川 still cannot independently recall/write `洛`.
-- New: 洛沉川 has `失路`; he recognizes places but cannot connect them into navigable routes, including the route back to七塔谷.
-- 第二影 now bears `四` via `空位递补`; do not restore `引` casually.
-- 洛沉川 holds the new black-silver `四 / 拒` piece and cracked/disabled `五` lamp.
-- Black-silver short blade remains with洛沉川.
-- Fourth-door sound has begun; `拒` is only a clue, not yet a fully known rule.
+- Chapter 27 begins immediately at the Chapter 26 fourth-door opening; no long time jump.
+- 第六门 CLOSED; 第五门 CLOSED.
+- Permanent fixed village light remains gone; finite dragon-blood lamps remain the settlement's only stable illumination.
+- 阿满 has true shadow and no active fifth-door guide debt.
+- Grey-white escapee is alive, bandaged, and unresolved.
+- 洛沉川 still cannot independently recall/write `洛` and still has `失路`.
+- Chapter 25 already used the third agreed `欠钱的` call of that day; Chapter 26 deliberately did not add another private call.
+- 第二影 now visibly bears `受`; do not restore `四/拒/引` without a new event.
+- `四/拒` black-silver piece remains physical inventory with洛沉川 unless explicitly moved later.
+- 洛沉川 has said `我接` and is on the door-created route; exact cost/meaning of `第四位` remains unknown.
+- 烛昭's contract line is pulled north and she is physically resisting at chapter end.
 - Current洛沉川 remains distinct/unproven relative to historical守六.
