@@ -1,117 +1,128 @@
-# 《黎明契约》Current Canon — through Chapter 22
+# 《黎明契约》Current Canon — through Chapter 23
 
 ## Canon authority note
-- Latest accepted chapter: Chapter 22《有人用过这个名字》.
-- Repository archive still has historical file gaps for Chapters 15 and 17–20. These are archive-sync gaps only; conversation-approved Chapters 15–20 remain Canon and MUST NOT be treated as absent or reset.
-- Immediate continuation must start after Chapter 22.
+- Latest accepted chapter: Chapter 23《还给你》.
+- Repository archive still has historical sync gaps for Chapters 15 and 17–20. These remain accepted Canon from the running task context and MUST NOT be reset.
+- Chapter 24 must continue directly from Chapter 23.
 
 ## Immediate situation
-- Location: 七塔谷；新重点转向塔库中的“守六单翼扣”、边陲荒田下新显现的“守六旧门/六门”、第二影与前代守六记录的关系。
-- 七塔均亮；守门影/借影/临时门规继续有效。
-- 第二影此前取得的“洛”字三点水在 Chapter 22 末开始沿黑线向南方旧门流失，但并未回到当前洛沉川本人。
-- 无字书新增：`六守借名。以名待王。王归，则名还。` 以及 `六门未闭。`
-- 章末第二影对南方旧门说：`第六，回来了。`
+- Location at chapter end: 七塔谷东墙 / departure preparation toward border village and dragon-egg field.
+- 第六 old door has been CLOSED.
+- 第五 old door has already begun sounding in descending sequence; 第一影 states sequence `六 → 五 → 四 ...` under `王归`.
+- 第二影 bears a new `五` mark and is threatened by `空位递补`.
+- 洛沉川 decides to leave today, not tomorrow, with 烛昭 and 闻契 toward the border village / dragon-egg field before第五门 completes its call.
 
 ## Character state
 ### 洛沉川
-- 主 POV，第三人称限知；寡言、算账、利益/报酬语言持续成立。
-- 对烛昭和谷内活人的守护倾向继续只通过行动暴露。
-- 使用“守门者”权限会加速旧名转移，这是硬规则。
-- 左胸 Chapter 21 关归门产生的三道裂伤继续恢复。
-- 仍记得自己的名字，但听到“洛沉川”后存在识别延迟；第二影常更快回应。
-- 当前有效私有识别称呼之一仍为烛昭使用的“欠钱的 / 欠4997.5单位的”，第二影目前不会正常响应，且该称呼配合守护契约白线能把本人从旧名牵引中区分出来。
-- Chapter 5 捡到的黑银单翼残片已与桑枝保存残片拼成完整“守六 洛沉川”扣件，现由洛沉川带回塔库。
-- 半截丑龙木片仍不在洛沉川身上。
+- Main POV, third-person limited; taciturn; money/debt language continues to hide protective choices.
+- Calling/using守门者 authority remains dangerous to old-name integrity.
+- Chapter 21 left-chest closure wounds reopen in Chapter 23 while pulling 第二影 back from the sixth door; recovery must continue.
+- He REFUSED the sixth door transaction that offered to return `洛沉川` in exchange for `守一门`.
+- He now cannot independently recall/write the first character `洛`. He knows a first character used to exist, but it is cognitively absent unless externally anchored.
+- He still recognizes 烛昭 immediately and answers `欠钱的 / 欠4997.5单位的` without delay.
+- Existing sword, black-silver short blade, fourth-chamber plate, wing-mark badge, south-pointing black-silver piece etc. remain unless later transferred.
 
 ### 烛昭
-- 门体系识别的门主/王嗣；未主动同意成为耗材。
-- 真正恐惧时对白减少。
-- 守护契约白线仍只连接当前洛沉川本人，不连接第二影。
-- 继续保管半截丑龙木片，背面为她亲手刻下的“洛沉川”，位置为颈侧鳞片下。
-- 欠款仍为4997.5单位；“欠钱的”继续是关键私有称呼。
+- Door-system identity remains门主/王嗣; she has NOT consented to become material/consumable.
+- True fear still reduces dialogue rather than making her explain feelings.
+- Protective contract white line continues to identify current 洛沉川 rather than shadows.
+- She keeps the half ugly-dragon wooden piece under her neck scale; full `洛沉川` is carved on its back in her own uneven handwriting.
+- The wooden piece is now the strongest physical anchor for the lost first character `洛`.
+- She physically interrupted the sixth-door lure and used `欠钱的` to anchor current 洛沉川.
+- Surface agreement: during the trip she may call him `欠钱的` three times per day; underneath this is an identity-stabilizing practice.
+- Debt remains 4997.5 units.
 
 ### 闻契
-- 继续提供旧规则/文字解释，但对历代守门、守六、六门、七影机制均不全知。
-- 当前推断：旧门仍等待守六的守门身份；谁承接“洛沉川”这个名字，谁可能被旧门识别/召唤。
+- Still an incomplete interpreter of old rules, not omniscient.
+- Recognized that the old six-door transaction was using a numbered old door as a substitute route for归名.
+- Will travel toward border village with 洛沉川/烛昭.
 
 ### 岑缨
-- 七塔谷现场指挥者；继续做人/影分册管理。
-- 旧债活人仍集中观察。
-- 已接纳桑枝、桑野在谷内暂住，桑野可承担东墙劳作。
+- Remains 七塔谷 field commander.
+- Continues human/shadow registry and temporary gate rules.
+- Will manage the valley while 洛沉川 is away.
 
 ### 第一影
-- 主要承担东墙/门务巡查；能记录并执行临时门规。
+- Main east-wall / gate-duty shadow; executes temporary gate rules.
+- Identifies the next activation as `第五`, sequence descending after `王归`.
 
 ### 第二影
-- 会回应“洛沉川”，通常比当前洛沉川更快。
-- 不仅有当前洛沉川相关信息，还能访问三十五年前守六/边陲村灾变记录：已说出桑枝童年“北沟、碎瓶、左眼、母肩伤”等细节。
-- 会被边陲荒田下守六旧门对“洛沉川”的呼唤牵引。
-- Chapter 22 末其胸口三点水开始沿黑线朝南方旧门流出，随后称“第六，回来了”。
+- No longer carries the `氵` component.
+- Chapter 23 black-line cut severed its connection to historical守六 records.
+- It no longer recalls `北沟 / 碎瓶 / 左眼 / 母肩伤` and no longer has守六 historical-record access.
+- It no longer claims the full `洛沉川`; in Chapter 23 it says `沉川`, later identifies itself as `守门者`, name `无`.
+- After第五门 activation, its chest gains a `五` mark; `空位递补` is an active threat.
 
 ### 第三影
-- 仍与南沟/第四供室方向门务相关；不得擅自改写职责。
+- Still associated with south-gully / fourth-chamber gate duty. Do not reassign without an explicit event.
 
 ### 桑枝
-- Chapter 22 新实体；约五十余岁，三十五年前边陲村灾变幸存者，当时九岁。
-- 左眼于灾变夜受损后浑浊。
-- 母亲灾变夜肩部中枪，被守六短暂救回，十一天后死亡。
-- 三十五年来保存守六亲手折下并交给其母亲的半片单翼扣；一直等待边陲村/荒田出现白光。
-- 已确认三十五年前有一个面貌不同于当前洛沉川的男人使用“洛沉川”这一名字，并被单翼扣标记为“守六”。
+- Border-village massacre survivor, now elderly; left eye damaged since that night.
+- Confirms historical守六 resisted the same door-call mechanism and once told a living person `先叫我` before the door could claim his answer.
+- Her half of the守六 clasp was consumed together with 洛沉川's half when the complete clasp locked the sixth door.
+- Intends to return to the border village.
 
 ### 桑野
-- 桑枝姐姐的孙辈，二十余岁，带旧猎弓。
-- 在龙蛋荒田触碰新出现的七缝黑银门，并听见门内呼唤“洛沉川”。
-- 当前以东墙劳动抵住宿。
+- Young relative of 桑枝, hunter bow.
+- Remains temporarily in the valley working the east wall; five days agreed as lodging offset.
 
-## Knowledge / rules
-1. 守门权限调用会直接加速旧名转移。
-2. 归门负责影、名、债清算，可凭特征锁定债务对象，不必询问真名。
-3. 旧名转移已产生现实认知损耗，不是单纯文字变化。
-4. 守护契约仍能区分当前洛沉川本人和守门影。
-5. 无字书既有硬规则：“名非自有，众口所系。”
-6. 基于具体关系的私有称呼目前不触发第二影的正常旧名响应，并可配合契约白线拉回本人。
-7. 七影齐前旧名理论可逆；常规归名需要归门影，而归门影尚未出生。
-8. 七影齐存在高风险状态“名成，则人空”。
-9. “洛沉川”至少三十五年前已被守六使用；当前人物不是该名字首位使用者。
-10. 第二影具备前代守六/守门记录，不能再当作纯当前人物复制品。
-11. 无字书新增：`六守借名。以名待王。王归，则名还。` 守六使用“洛沉川”可能本来就是一次有目的的借名。
-12. 守六曾留警告：`如果我没回来，别让下一个答应。` 具体答应内容未知；其解释为“知道了就更容易答”。
-13. 边陲荒田下出现过去不存在的黑银七缝门，第二影称其为守六旧门；无字书确认`六门未闭`。
-14. 旧门能以“洛沉川”这个名字召唤承名者；第二影因回应更快而首先受到牵引。
+## Core knowledge / rules
+1. `洛沉川` was used by historical守六 thirty-five years ago, but current 洛沉川 is NOT established as the same biological/person identity.
+2. Historical守六's use of `洛沉川` was itself likely borrowed: `六守借名。以名待王。王归，则名还。`
+3.守六 warning `如果我没回来，别让下一个答应` is now partially resolved: the dangerous assent is accepting a name-return transaction in exchange for keeping a numbered old door.
+4. Old doors can use the carried old name to call an answerer; answering quickly is dangerous.
+5. Relationship-specific private address (`欠钱的`) plus the protective contract can distinguish current 洛沉川 from door/shadow name-capture.
+6. `名非自有，众口所系` remains hard canon.
+7.守六 apparition in Chapter 23 is only `守六记录`, not confirmed living resurrection/ghost/person continuity.
+8. Complete guard clasp can act as key AND lock.
+9. Closing a numbered old door can cost identity/name components.
+10. Cutting the black gate-record line can sever a shadow's historical record access.
+11. 第六 old door is closed; its守六 record link to 第二影 is severed.
+12. Old-door sequence continues after one closes: current observed order begins `六 → 五 → 四 ...`.
+13. `空位递补` can retarget a surviving shadow to the next numbered vacancy.
+14. 七影齐 / `名成，则人空` remains an unresolved major risk.
+15. Temporary gate rules and borrowed shadows in the valley remain active; they are NOT reset by sixth-door closure.
+16. Border village still has roughly 17 people under fixed white light; safety obligation remains active.
 
 ## Inventory / objects
-- 无字书：塔库；新增临时页，前五守名字被划去、第六守胸口为“洛沉川”、第七守无脸无名脚下七影；新增文字“六守借名。以名待王。王归，则名还。”“六门未闭。”
-- 半截丑龙木片：由烛昭颈侧鳞片下保管，背面为“洛沉川”。
-- 完整守六单翼扣：Chapter 5 洛沉川残片 + 桑枝残片拼合；隐藏铭文“守六 洛沉川”；章末自行立起呈钥匙姿态，现处塔库/洛沉川控制下。
-- 洛沉川既有剑、黑银短刀、第四供室门牌/黑银薄片、翼纹徽章、南向黑银片等继续按既定状态存在；未明确转交不得擅自消失。
-- 影册至少一页仍在归门内；既有状态不重置。
+- 无字书: tower archive; retains previous pages/rules including `名非自有，众口所系`, `六守借名。以名待王。王归，则名还。`, historical guard page, seven-shadow page.
+- Half ugly-dragon wooden piece: with 烛昭 under neck scale; back has full `洛沉川` carved by 烛昭.
+- COMPLETE守六 single-wing clasp: REMOVED FROM ACTIVE INVENTORY. It was inserted as the lock/key and remains trapped behind the CLOSED sixth door.
+- 洛沉川's other established items continue unchanged unless explicitly transferred.
 
 ## Timeline / world state
-- Chapter 22 直接承接 Chapter 21 东墙来客事件，无跳时。
-- 桑枝三十五年前九岁，亲历边陲村灾变，并目击守六清理灾后变异商队成员；与 Chapter 5 黑茧伤口证据对上。
-- 桑枝称固定白光出现后于七天前返回边陲村；现有约17人在固定光附近停留/聚居。
-- 龙蛋荒田原坑下如今出现守六旧门；过去桑枝童年掉入时地下仅为土层，说明该门为后显现状态。
+- Chapter 23 begins immediately from Chapter 22 `第六，回来了`; no reset.
+- Sixth door manifests remotely in the tower archive through seven black seams.
+- Door offers complete old-name restoration for `守一门`; 洛沉川 nearly answers but 烛昭's private call interrupts.
+- Using the complete守六 clasp, 洛沉川 closes the sixth seam and refuses `还要吗` with `不要`.
+- Closure destroys/blocks his independent access to `洛` and consumes the clasp.
+- 第二影 is pulled back; black line is cut, severing守六 historical records from it.
+- At dawn, departure toward border village is planned; fifth door activates sooner than expected, forcing departure TODAY.
 
 ## Open threads
-1. 守六为何借用“洛沉川”，其原名是什么？
-2. `王归，则名还`究竟还给谁、还到何处？
-3. 当前洛沉川为什么拥有同一旧名；是门务继承、借名还是更深关系？
-4. 守六旧门为何在烛昭孵化/白光出现后显现？
-5. “别让下一个答应”指什么请求、契约或门务？
-6. 第二影为何能访问守六旧记录，它是否正在朝“守六”而非当前洛沉川变化？
-7. `六门未闭`的实际后果及关闭方式。
-8. 边陲村现有17人的后续安全问题。
-9. “众口所系”与“王归则名还”能否共同形成不让七影齐名的归名路径。
+1. What was historical守六's original name before borrowing `洛沉川`?
+2. Why does current 洛沉川 carry the same borrowed name?
+3. Can the lost `洛` be restored through `众口所系`, 烛昭's wooden anchor, proper归名, or another mechanism without accepting a door bargain?
+4. What exactly is第五门, where is it, and what will it offer/claim?
+5. Why does old-door sequence descend `六 → 五 → 四 ...` after `王归`?
+6. What does `空位递补` do to 第二影 if第五门 completes activation?
+7. What is the relationship between the border dragon-egg field, six numbered old doors, fourth chamber, and current seven-tower gate system?
+8. How safe are the ~17 people at the border village now that numbered doors are activating?
+9. Can `先叫我` / private relational calling become a stable anti-capture rule?
+10. What happens when七影齐 if numbered old-door vacancies are also trying to recruit shadows?
 
-## Hard start for Chapter 23
-- Chapter 23 必须直接承接“六门未闭”和第二影最后一句“第六，回来了”。
-- 第二影胸口流出的“氵”没有回到当前洛沉川本人；名字识别延迟继续。
-- 桑枝证词只证明历史守六曾使用“洛沉川”，不得无证据写成“当前洛沉川就是守六本人”。
-- 守六完整单翼扣现为钥匙姿态，必须保留。
+## Hard start for Chapter 24
+- Start with immediate departure / preparation toward border village; do not insert a long time skip.
+- Fifth door is already sounding and 第二影 bears `五`.
+- 洛沉川 cannot independently recall `洛`; do NOT casually restore full-name cognition.
+- 第二影 cannot suddenly regain守六 historical-record access without a new mechanism.
+-守六 clasp is trapped behind closed sixth door and cannot be reused.
+- Current 洛沉川 remains distinct/unproven relative to historical守六.
 
 ## Style / continuity hard rules
-- 第三人称限知，以洛沉川为主。
-- 洛沉川寡言、利益语言遮掩守护行为。
-- 烛昭话多、好奇、爱肉与书，但真正恐惧时明显少说。
-- 重要感情不直接命名。
-- 避免AI式工整问答、旁白替人物解释、泛化比喻、模板化金句。
+- Third-person limited, primarily 洛沉川.
+- Cold, concrete, visual, human; no meta exposition dump.
+- 洛沉川: terse, interest-first surface, protective action underneath.
+- 烛昭: curious/talkative in safety, noticeably quieter in real fear; loves meat/books.
+- Important affection is not named directly.
+- Avoid tidy AI Q&A, generic similes, over-explanation, and template aphorisms.
