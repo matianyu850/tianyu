@@ -1,4 +1,4 @@
-# Timeline — Current through Chapter 29
+# Timeline — Current through Chapter 30
 
 ## Archive note
 Historical repository gaps for Chapters 15 and 17–20 remain accepted Canon from running context and must not be erased.
@@ -27,15 +27,31 @@ Historical repository gaps for Chapters 15 and 17–20 remain accepted Canon fro
 21. At the next threshold,第二影 is ahead marked `二`.
 22. 第二席 is first materially observed as a narrow bridge over countless white papers. Papers show two names separated by `代`; reverse side reads `换`.
 23. Chapter 29 closes with第二影 pointing specifically at the restored wooden name-anchor under烛昭's neck scale and asking: `换谁。`
+24. Chapter 30 begins immediately. The bridge first demonstrates `换` by exchanging the active guide relation: 洛沉川 temporarily receives 闻契's route knowledge while闻契 temporarily experiences `失路`.
+25. The guide-role trial reverses when洛沉川 completes the substituted task by guiding闻契 across the bridge. 洛沉川's original `失路` returns;闻契 regains his route knowledge.
+26. 第二席 tries to reinterpret洛沉川/烛昭's witnessed `互托` as exchangeable substitution, offering larger exchange categories including name relation and门位.
+27. 洛沉川 proposes taking门主 position to remove burden from烛昭;烛昭 refuses and objects to him repeatedly treating her removable burdens as cheap costs for himself.
+28. The pair scopes the required exchange to a single `位置/身位` passage exchange. Physical bodies remain unchanged, but bodily-map sensation and some motor intention cross through the intact contract line.
+29. During the exchange,洛沉川 directly experiences烛昭's white-light pressure/name-anchor discomfort;烛昭 directly experiences洛沉川's old wounds and subjective `失路`.
+30. Neither accepts permanent substitution. They act through their own choices, complete the passage, and第二席 records `洛沉川 / 烛昭 — 各自`; reverse-side `换` is struck through. 第二影 states only `一步` was exchanged.
+31. TRUE wooden full-name anchor remains under烛昭's neck scale; name ownership/custody, blood, door role, and physical body states remain unchanged.
+32. 第二影's `二` collapses and reforms as `一`.
+33. 第一席 appears as a vertical black-water surface. It reflects a second highly convincing洛沉川 and a reflected烛昭, but not闻契; 第二影 states `第一席不记旁证`.
+34. Reflected烛昭 lacks the physical wooden name-anchor. Water-side洛沉川 claims the name and asks烛昭 to return it.
+35. Seven shadow silhouettes manifest behind water-side洛沉川.
+36. 烛昭 calls the private identifier `欠钱的`; both physical洛沉川 and water-side洛沉川 answer `嗯` simultaneously.
+37. The contract white line forks: one branch recognizes physical洛沉川 and a second crosses the water to recognize the water-side candidate.
+38. Chapter 30 closes with water-side洛沉川 stating the first-seat question: `谁是真的。`
 
-## Current constraints for Chapter 30
+## Current constraints for Chapter 31
 - Immediate continuation; no time skip.
-- Present at第二席: 洛沉川、烛昭、闻契、第二影 marked `二`.
-- Former fourth-position holder remains behind in第三席 with the long-haired red-cloth person / old unresolved proxy relation; do not teleport him forward.
-- TRUE wooden full-name anchor is physically back under烛昭's neck scale.
+- Present physically at第一席: 洛沉川、烛昭、闻契、第二影 marked `一`.
+- Across/in black water: second candidate洛沉川 + seven shadow silhouettes; reflected烛昭 lacks the wooden anchor.
+- Former fourth-position holder remains behind in第三席; do not teleport him forward.
+- TRUE wooden full-name anchor remains physically under physical烛昭's neck scale.
 - 洛沉川 remains `失路` and still cannot independently access/write `洛`.
-- `名已受托` now has witnessed self-decision framing: name belongs to洛沉川,烛昭 willingly holds it, neither party has permanent proxy authority over the other.
-- Contract white line remains intact.
-- 第二席 mechanics are incomplete/unknown beyond observed `代`, `换`, bridge papers and prompt `换谁`; no one has answered yet.
-- 桑枝 plaque gray/inert;阿满 plaque live/unresolved; grey-white `萨维` relation substantially reclaimed by participants.
-- Long-haired red-cloth person's exact identity remains unconfirmed; `阿迟` is not proven as former holder's true name.
+- `名已受托` remains bilateral custody: name belongs to洛沉川,烛昭 voluntarily holds it, neither has permanent proxy authority.
+- Contract white line remains intact but now recognizes both candidate洛沉川 figures.
+- Both candidates answered `欠钱的`; this identifier alone can no longer distinguish them.
+- 第一席 prompt is active: `谁是真的。`; no answer has been given.
+- Exact ontology of the water-side candidate and seven silhouettes is UNKNOWN; demonstrate before explaining.
