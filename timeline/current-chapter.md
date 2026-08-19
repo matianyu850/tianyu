@@ -52,3 +52,29 @@
 - A second subsidiary tower goes fully dark; five of seven towers remain lit.
 - The defenders begin reorganizing around human/manual defense rather than tower automation. Elderly residents and children begin support roles.
 - As Luo prepares to inspect the south water route, multiple smaller blue-eyed creatures are discovered already inside the valley behind the main defense, near elderly residents and children.
+
+## Chapter 13 — directly after Chapter 12
+- Small blue-eyed entities inside the valley are shown to be light, partly hollow bodies filled with blue larvae/threads rather than simple juveniles of the large creatures; a killed specimen has no shadow.
+- Small entities collect blue larvae from dead large creatures and can use them to repair damage.
+- A wounded defender reveals that Qinghe (青禾) left the infirmary after waking; the door guard Lao Tao is found dead with a small clean hole at the back of his neck.
+- A tower ledger shows a previous ordinary-dragon-blood count of 327 while the known physical count is 323, revealing four missing bottles. Hidden notes mention reopening the south drain and transferring 'Fourth Supply' outside the main ledger, with a partial Cen (岑) signature.
+- Cen Ying reveals the previous tower master was her father, who died twelve years earlier.
+- Luo leaves A-Ce (阿策) guarding the south-drain entrance while Luo and a crossbowman enter the old drain route.
+- Luo finds Qinghe with a gray-skinned underground being. Qinghe's corruption appears reduced and a black-silver line runs from the neck down the spine and braces the broken leg; he calls the old extraction device a 'key'.
+- A gray-skinned figure addresses Luo with 'Savi' / gate-keeper terminology and names Cen Yuan (岑渊), identified by the crossbowman as the first Crescent tower master roughly twenty years earlier, confirming Crescent rule post-dates the towers.
+- The gray-skinned figure gives Luo a thin black-silver plate identified as 'Fourth Supply Room' and gestures that danger above involves Zhuzhao.
+- Another subsidiary tower fails; lock sounds begin deeper below.
+- As Luo starts back, a pack of no-shadow small blue-eye entities enters the drain and focuses on Qinghe.
+- In the valley, a child gives Zhuzhao a blank book smelling like the underground door, claiming it came from an A-Ce-like 'older brother'. A fourth human-shaped shadow detaches from the tower-store wall.
+
+## Chapter 14 — immediately after Chapter 13
+- Luo uses side-light rather than brute-force killing in the narrow drain and discovers that multiple no-shadow blue-eye bodies contribute to/assemble a separate wall-shadow; damaging the wall-shadow collapses one of the bodies.
+- Qinghe partially translates a gray-skinned term as 'shadow feed'. The gray-skinned figure leads Luo to a sealed south-drain door; Luo's Fourth Supply Room black-silver plate fits and opens it slightly. Luo deliberately closes it without entering.
+- Luo returns to the cave mouth and finds A-Ce gone, his gear left behind, and a calm return trail accompanied by a separate cloth-like drag trace; the two cave-wall taps appear mechanically even rather than freely hand-made.
+- Back in the valley, A-Ce is present in the tower-store with Zhuzhao, Cen Ying, the blank book, and a fully detached Fourth Shadow. The child insists an A-Ce-looking/voiced figure gave him the book, although A-Ce denies ever meeting him.
+- The blank book is revealed to contain black/gray shadow-like pages that react to Zhuzhao's light. The Fourth Shadow moves toward and is wrapped into the book, but A-Ce's normal shadow begins fading, exposing a continuing connection.
+- Zhuzhao sees a thin blue line joining A-Ce to the Fourth Shadow. Luo refuses A-Ce's proposal to use his own blood, reopens Luo's already damaged left palm, and uses his blood + the old guardian wing badge + Zhuzhao's light to detach the line. A-Ce's normal single shadow is restored.
+- A-Ce recognizes the blank book from a box once held by his East-Tower-repairman father, who died twelve years earlier. Cen Ying says her own father later confiscated that box, linking the blank book to the hidden previous-generation tower work.
+- The blank book is suspended under four ordinary dragon-blood lamps. Small shadow droplets still leak from it and stretch southward toward the Fourth Supply Room.
+- Alarm bells sound from east, west, and north. An organized living human force with carts, horses, long guns and a black-eye-over-three-bars flag arrives on three roads.
+- Their unarmed spokesman looks directly at Zhuzhao without surprise and explicitly demands the return of the Fourth Supply Room and the blank book. As he speaks, the illuminated blank book opens its first page by itself.
