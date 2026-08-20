@@ -5,7 +5,7 @@
 - Black-silver short blade: retained.
 - `四/席` black-silver piece: retained.
 - Dragon-blood stock: unchanged this chapter.
-- Copper: decreases by 2 total in this chapter: 1 copper for the one-use gray mirror shard; 1 copper previously paid for `离巢` page remains historical, not a new deduction.
+- Copper: decreases by 1 in Chapter 37 for the one-use gray mirror shard. The copper previously paid for `离巢` remains historical and is not a Chapter 37 deduction.
 - One-use gray mirror shard: acquired for 1 copper, used once, then breaks into four pieces; broken pieces retained in bag unless later discarded.
 - First-Door mirror-key: NEW, acquired from mirror-keeper's chest; blooded on transfer; retained with 洛沉川.
 
