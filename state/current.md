@@ -1,35 +1,32 @@
-# 《黎明契约》Current Canon — through Chapter 34
+# 《黎明契约》Current Canon — through Chapter 36
 
 ## Canon authority
-- Latest accepted chapter: Chapter 34《城里的人没有影子》.
-- Chapters 31–33 remain accepted running-context Canon and MUST NOT be reset or rewritten.
-- Chapter 35 must continue directly from Chapter 34; no time skip.
+- Latest accepted chapter: Chapter 36《右手不是你的》.
+- Chapter 35《白光不杀影》 is accepted running-context Canon from the prior completed run and MUST NOT be reset or rewritten. Its body was not present in the repository when this run began; Chapter 36 continues it directly with no time skip.
+- Chapters 31–34 remain accepted Canon.
 
 ## Immediate situation
-- 洛沉川、烛昭、闻契 are on the high stone platform above the inhabited gray-light city.
-- The iron threshold behind them is now fully CLOSED after local mirrors involuntarily turned toward the central gray-mirror tower.
-- The detached gray door remains only narrowly open because 洛沉川 wedged his already cracked/disabled `五` lamp into it; the lamp is further damaged and currently occupied as the wedge.
-- The city residents present under gray ambient light cast no ordinary shadows and carry round gray mirrors. Local claim: prior survivors placed shadows into mirrors and cannot retrieve them. Treat as local testimony, not universal law.
-- Local responder claims `这里封的是黎明，不是城`; what `黎明` actually is remains UNKNOWN.
-- 烛昭's white light has been captured/remembered by many city mirrors after the gray-mirror tower reacted. Covering her does not erase the recorded image.
-- A young male resident's mirror has cracked; recorded 烛昭-white leaked to the ground and produced a rogue shadow that does not follow him. It has grabbed his ankle at chapter end.
-- Crowd expects 烛昭 to use white light against the rogue shadow. 洛沉川 has just called `烛昭`; her light is rising under his cloak.
-- The far-side black hand remains associated with the detached gray door. It pointed to the rogue shadow and made a throat-cut gesture.
-- The merged inner shadow remains inside 洛沉川's ordinary shadow and is NOT proven identical to the far-side hand.
+- 洛沉川、烛昭、闻契 have reached and opened the gray mirror tower after the Chapter 35 confrontation.
+- The unnamed mirror-keeper is physically present inside the tower. His flesh right arm is intact; the missing component was the shadow-right-arm.
+- Merged inner shadow autonomously loaned its right arm to the mirror-keeper, enabling total mirror shutdown; the arm was returned within Chapter 36 and the inner shadow has re-merged with 洛沉川 complete.
+- City mirror system is currently stopped. Many round mirrors have begun cracking/releasing shadows; some shadows recognize/track owners, some do not. City state is chaotic and unresolved.
+- 沈砚秋's mirror remains intact. Its back reveals `719 代`; she did not herself choose the original placement according to current testimony and has not yet chosen to reclaim it.
+- Tower mirrors show 边陲村 / 七塔谷 / 第四供室 / 荒田 and other traveled places with a gray line appearing at the horizon.
+- Tower occupant claims the group did not merely arrive at `黎明`; instead `黎明` is leaking into places traveled by the door-shadow carried with 洛沉川. This is a major new claim, not yet independently verified.
+- Mirror-keeper warns that taking the inner/door shadow back toward 七塔谷 may spread the leak there.
 
 ## 洛沉川
-- Main POV; terse, price/debt language on surface; protection shown through action.
-- Global `失路` remains active. No route cure in Ch34.
-- Still cannot independently access/write/recall the first character `洛`; the gray mirror's call is perceived only as an inaccessible first character + `沉川`.
-- Physically puts himself between 烛昭 and the crowd when they demand her light, then trades help for information rather than surrendering her as a tool.
-- Brief gray-door/shadow contact vision shows same city dark, streets full of shadows without people, and a right-arm-missing figure at/in the mirror tower. Vision is not verified history.
+- Main POV; terse; protection through action and debt/price language.
+- Global `失路` remains ACTIVE. No route cure in Ch35–36.
+- Still cannot independently access/write/recall the first character `洛`.
+- Does not allow others to choose for inner shadow; explicitly tells it to decide whether to lend its right arm.
+- Does not surrender 烛昭's light as a public tool; mirror siphoning is stopped in Ch36.
 
 ## 烛昭
 - Curious/talkative when safer; true fear reduces speech.
 - TRUE half ugly-dragon wooden full-name anchor remains under neck scale.
 - Entrusted holder only, not owner/proxy.
-- White light has been recorded by city mirrors; no consent to material/consumable status.
-- At Ch34 end, white light is rising under 洛沉川's cloak in response to rogue shadow emergency.
+- White light is no longer actively siphoned by city mirrors after mirror shutdown; exact amount recovered remains UNKNOWN.
 
 ## 闻契
 - Present; incomplete interpreter, never omniscient.
@@ -37,59 +34,52 @@
 
 ## Shadow state
 ### Merged inner shadow
-- Remains merged with 洛沉川.
-- Ch34 writes minimal warning `别 / 回 / 我`, then says far-side hand is only `像`.
-- Contact with black seepage at wedged gray door triggers 洛沉川's brief vision.
+- Remains merged with 洛沉川 at Chapter 36 end.
+- Right arm was temporarily loaned voluntarily to mirror-keeper, then fully returned.
+- Recognizes the mirror-keeper's `right hand`, but does NOT identify the person.
+- Previous far-side black hand remains a separate anomaly; do not merge identities without proof.
 
-### Far-side black hand
-- Separate anomaly beyond detached gray door; identity UNKNOWN.
-- Ch34 points at newly formed rogue shadow and performs throat-cut gesture.
+### City returned shadows
+- Mirror shutdown causes many stored shadows to reappear.
+- Some recognize their old owners immediately; others do not.
+- 周衡's abnormal shadow points toward home rather than automatically fusing back into him.
 
-### New rogue resident shadow
-- Formed after a young resident's round mirror cracked and recorded 烛昭-white leaked to ground.
-- Does not follow its owner; crawls independently and grabs his ankle at chapter end.
-
-## Local gray-city claims — NOT automatically universal laws
-- Residents say the sealed object/state is `黎明`, not the city.
-- Residents say survivors of earlier opening events put shadows into round mirrors and cannot retrieve them.
-- Local woman directly knows a second-opening case involving her missing brother; third-opening lore is not firsthand.
-- She calls a right-arm-missing figure `最后一个有影子的守镜人`, says he `把黎明关了` and left his shadow behind the iron door.
-- Local custom allegedly avoids preserving mirror-keeper names because names let the mirror find them.
-- DO NOT conflate this right-arm-missing mirror-keeper with 守六, the black-book courier, or any prior right-arm clue without proof.
+## Mirror-keeper (unnamed)
+- Physical right arm exists; missing shadow-right-arm caused local appearance/tradition of `缺右臂` for this person.
+- Claims a mirror-keeper shadow was split during sealing into internal mirror-recognition part and external people-recognition part. Treat as testimony pending corroboration.
+- Claims only 37 days have elapsed for him since sealing, while city tradition says roughly 80 years. Temporal discrepancy unresolved.
+- DO NOT equate him with 守六, the black-book courier, or any other right-arm clue without proof.
 
 ## Inventory / objects
 - Sword: with 洛沉川.
 - Black-silver short blade: with 洛沉川.
 - `四/席` black-silver piece: with 洛沉川.
-- Dragon-blood stock: finite, unchanged in Ch34.
-- TRUE half ugly-dragon wooden full-name anchor: under 烛昭's neck scale.
-- `五` lamp: cracked/disabled before Ch34; now further compressed/damaged and WEDGED in detached gray door. Not freely in pack until recovered.
-- Fourth bowl: broken; four shards remain on/around platform.
-- `离巢` token: consumed in Ch33.
+- Dragon-blood stock: finite, unchanged in Chapter 36.
+- TRUE half ugly-dragon wooden full-name anchor: under 烛昭 neck scale.
+- `五` lamp: still cracked/disabled and wedged in detached gray door back on the high platform; not recovered.
+- Fourth bowl shards: remain on/around platform.
+- 沈砚秋 round mirror: with her, intact, `719 代` marking visible under gray light.
 
 ## Open threads
-1. What exactly is sealed `黎明`?
-2. Why do residents have no shadows and what do their mirrors actually do?
-3. Why can 烛昭-white recorded in mirrors produce a rogue shadow?
-4. Can the rogue shadow be safely destroyed by white light and what is the cost?
-5. Who is the right-arm-missing last shadowed mirror-keeper? Keep clues separate.
-6. Why can the gray mirror call 洛沉川's name, and why does the wooden name anchor heat?
-7. What is the far-side black hand?
-8. Why does merged inner shadow remain if a matching far-side hand exists?
-9. What is the gray-mirror tower?
+1. What exactly is `黎明` and what physically constitutes a `leak`?
+2. Why did 洛沉川's merged inner shadow carry the mirror-keeper's shadow-right-arm while also traversing the Seats?
+3. Why do tower mirrors show traveled locations with gray horizons?
+4. Which city shadows will recognize original owners, and what happens to those that do not?
+5. What caused the 37-day vs ~80-year temporal discrepancy?
+6. Can the group return toward 七塔谷 without spreading the gray leak?
+7. What is the detached gray-door far-side black hand?
+8. Why can gray-mirror systems call/approach 洛沉川's inaccessible full name?
+9. Former holder's Third Seat account and 阿满's live fourth-seat plaque remain unresolved outside current route.
 10. Can global `失路` recover while the grey-white escapee lives?
-11. Former holder's Third Seat account and 阿满's live fourth-seat plaque remain unresolved outside current route.
 
-## Hard start for Chapter 35
+## Hard start for Chapter 37
 - Immediate continuation; no time skip.
-- Rogue shadow has grabbed the young resident's ankle.
-- Crowd expects 烛昭 to burn it with white light.
-- 洛沉川 has just called `烛昭`; her white light is rising under his cloak.
-- Iron threshold is fully closed.
-- Detached gray door remains narrowly wedged open by the damaged `五` lamp.
-- Central gray mirror remains active.
-- Merged inner shadow remains with 洛沉川; far-side black hand remains separate/unknown.
-- Global `失路` and first-character name loss remain.
+- Group is at/just inside the mirror tower with the unnamed mirror-keeper.
+- Inner shadow has its right arm back and is merged with 洛沉川.
+- Total mirror system is stopped; the city is in unstable partial shadow-return state.
+- Tower mirrors show traveled locations with gray horizon leakage.
+- The mirror-keeper has just warned: taking the door-shadow back toward 七塔谷 may spread `黎明` there.
+- Global `失路`, first-character `洛` loss, wooden full-name anchor state, and all inventory constraints remain.
 
 ## Style hard rules
 - Third-person limited, primarily 洛沉川.
