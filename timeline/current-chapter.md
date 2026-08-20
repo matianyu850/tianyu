@@ -1,49 +1,37 @@
-# Timeline — Current through Chapter 33
+# Timeline — Current through Chapter 36
 
 ## Archive note
 - Detailed prior-event records remain preserved in repository history and per-chapter state directories.
-- Historical repository prose gaps for Chapters 15 and 17–20 remain accepted Canon from running context and must not be erased.
-- Chapter 31《真的不值钱》 remains accepted running-context Canon despite its prose archive gap and MUST NOT be rewritten.
+- Historical prose archive gaps do not erase accepted running-context Canon.
+- Chapter 35《白光不杀影》 was accepted in the prior run and is binding context even though its prose file was absent from the repository when Chapter 36 began.
 
 ## Condensed immediate sequence
-1. Chapter 23 closes the sixth door; 洛沉川 loses independent access to `洛`.
-2. Chapters 24–25 resolve fifth door / `引`; 洛沉川 takes `代引` and acquires active global `失路`; grey-white escapee survives, keeping that condition active.
-3. Chapters 26–27 resolve the current fourth-door `拒/受` cycle and establish 烛昭's continued holding of the TRUE half wooden name-anchor as `名已受托`, not ownership.
-4. Chapters 28–29 pass Fourth Seat and Third Seat. Third Seat records 洛沉川/烛昭 as separate self-deciding parties in `互托`; former fourth-position holder `阿迟` stays behind to handle an old Third Seat account.
-5. Chapter 30 passes Second Seat with only a temporary single-step `位置/身位` exchange; no permanent name/body/door-role substitution occurs. Sequential shadow reaches `一`; First Seat asks `谁是真的`.
-6. Chapter 31 reveals both First Seat candidates are genuine in different senses. 洛沉川 rejects replacement by an unspent `完整之真` and chooses his current paid-loss self. Water-side candidate and seven silhouettes sink. Sequential seat-interface shadow merges into 洛沉川's ordinary shadow as an inner layer.
-7. Chapter 31 ends at `归家屋`.
-8. Chapter 32 reveals no physical mother is waiting. A black scale-backed book contains a preserved female recording whose identity and claims remain unverified. Recording cuts off after `如果不能——`.
-9. A final `离巢` page gives 洛沉川 exactly one navigable exception-route; global `失路` remains.
-10. Trio leaves; `归家屋` vanishes. One empty fourth bowl remains. Its `一` begins becoming a tiny gray door, while the distant end of `离巢` also brightens.
+1. Chapters 23–30 close Sixth/Fifth/Fourth doors and pass Seats Four/Three/Two; 洛沉川 loses independent access to `洛`, acquires global `失路`, and entrusts the TRUE half wooden full-name anchor to 烛昭 without transferring ownership/decision rights.
+2. Chapter 31 passes First Seat: 洛沉川 rejects replacement by an unspent `完整之真`; sequential seat-interface shadow merges as an inner layer of his ordinary shadow.
+3. Chapter 32 passes `归家屋`; no physical mother is present. `离巢` provides a single navigable route exception while global `失路` remains.
+4. Chapter 33 reaches the gray-light inhabited city. The fourth bowl breaks; a detached gray door remains; a separate far-side black hand appears. Warning reads `黎明封闭期间，严禁开门`.
+5. Chapter 34 establishes that residents lack ordinary shadows and carry gray mirrors. Recorded 烛昭-white leaks from one cracked mirror and produces an independent rogue shadow. Local claims identify a right-arm-missing last mirror-keeper but remain testimony, not universal law.
+6. Chapter 35《白光不杀影》: white light can hurt/loosen shadow, but mirror-amplified white drives the rogue shadow into a human rather than simply killing it. Rogue shadow/inner shadow both indicate return toward the mirror tower. 洛沉川 briefly hears inaccessible `洛` from inner shadow but does not regain the name. Group reaches tower; seven locks fall; a physical right hand grips 洛沉川's shadow and demands `把右手还我`.
 
-## Chapter 33 — 《灰门不收人》
-11. The fourth bowl's `一` completes into a small gray door. It emits gray/pre-dawn-like light and air carrying wet-earth/grass smell.
-12. The merged inner shadow independently reaches toward the tiny door and writes minimal responses `不` / `不知`.
-13. The gray door attempts to pull the merged inner shadow through. 烛昭 uses white light to stretch 洛沉川's shadow; the inner shadow ultimately resists and clings to his ordinary shadow, remaining merged.
-14. 洛沉川 lifts and carries the bowl. While detached from the ground, the immediate shadow-pull stops; no universal rule is established.
-15. Descending `离巢`, terrain changes from black stone toward wet earth and fine roots; ambient gray light increases. 烛昭 can suppress her own white light and still see, and observes an externally cast long shadow.
-16. The bowl-door later shows the same stairs/iron threshold that lie ahead on `离巢`. Stone and rope tests demonstrate that it folds/connects this specific route segment.
-17. The party explicitly does NOT treat this as recovery of general navigation.
-18. At the end of `离巢`, its paper-token is inserted into and consumed by a tall iron threshold. The threshold opens.
-19. 洛沉川、烛昭、闻契 cross onto a high stone platform overlooking an inhabited walled city beneath broad gray light. No visible sun is established; whether this is ordinary sky/dawn remains unknown.
-20. After 洛沉川 crosses, the fourth bowl cracks into four suspended shards while the gray door persists independently in midair.
-21. The merged inner shadow remains in 洛沉川's ordinary shadow. A separate matching black hand appears from the far side of the detached gray door.
-22. The far-side hand draws a circle-with-vertical mark and points to a central low black tower topped by a gray mirror.
-23. The gray mirror reacts. City smoke shifts and residents stop to look toward the trio.
-24. A rusted warning sign reads `黎明封闭期间，严禁开门`.
-25. The detached gray door knocks once; the gray-mirror tower answers once.
-26. Many city residents begin converging toward the high platform.
-27. Chapter ends as the iron threshold behind the trio begins closing.
+## Chapter 36 — 《右手不是你的》
+7. Inner shadow recognizes the requested `hand` but does not identify the mirror-keeper as a person.
+8. Tower occupant says mirror-keeper shadow was split during sealing: internal mirror-recognition part + external people-recognition part. This remains testimony pending corroboration.
+9. Inner shadow autonomously chooses to LEND its right arm. 洛沉川 explicitly refuses to make that decision for it.
+10. Borrowed shadow-right-arm allows tower occupant to stop the total gray-mirror system. City mirrors begin releasing stored shadows; owner recognition is inconsistent.
+11. 沈砚秋's mirror remains intact and shows `719 代`; tower occupant says a guardian placed it. She chooses not to reclaim it yet.
+12. Tower occupant detaches the borrowed right arm from the mechanism and RETURNS it in the same chapter. Inner shadow regains complete right arm and re-merges with 洛沉川.
+13. Tower opens. Mirror-keeper's flesh right arm is physically intact; what was missing was the corresponding shadow-right-arm. Do not generalize this to other `缺右臂` clues.
+14. Tower mirrors show 边陲村、七塔谷、第四供室、荒田 and other traveled places with gray horizon lines.
+15. Mirror-keeper claims only 37 daily meals/days have passed for him since sealing, conflicting with local ~80-year history.
+16. Chapter ends on his claim that the group did not merely reach `黎明`: `黎明` is leaking into places crossed by the door-shadow carried with 洛沉川, and taking it back toward 七塔谷 may spread the leak.
 
-## Hard start for Chapter 34
+## Hard start for Chapter 37
 - No time skip.
-- Present: 洛沉川、烛昭、闻契 on the high stone platform above the city.
-- Many residents are approaching.
-- Iron threshold behind them is closing.
-- Detached gray door remains suspended among four bowl shards.
-- Far-side second black hand remains unresolved.
-- Gray-mirror tower has answered the door.
-- Warning `黎明封闭期间，严禁开门` is visible.
-- 洛沉川 retains global `失路` and still cannot independently access/write `洛`.
+- 洛沉川、烛昭、闻契 are at/inside the opened mirror tower with the unnamed mirror-keeper.
+- Inner shadow has its right arm back and is merged with 洛沉川.
+- Total mirror system is stopped; city is in unstable partial shadow-return state.
+- Tower mirrors show traveled locations with gray-horizon leakage.
+- Mirror-keeper has just warned against carrying the door-shadow back toward 七塔谷.
+- Global `失路` and independent first-character `洛` loss remain.
 - TRUE wooden full-name anchor remains under 烛昭's neck scale.
+- `五` lamp remains damaged and wedged in the detached gray door back on the high platform.
